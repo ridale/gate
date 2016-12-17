@@ -12,8 +12,8 @@ The power supplies used are pololu buck switching power supplies that will work 
 
 ## Wiring
 The cases are marked with the following stickers
-ANT - antenna
-SPN - Signal (gate 12V) / Positive 12V / Neutral
-PN - Positive 12V / Neutral
-12V LOAD - The lights load circuit
+* ANT - antenna
+* SPN - Signal (gate 12V) / Positive 12V / Neutral
+* PN - Positive 12V / Neutral
+* 12V LOAD - The lights load circuit
 
